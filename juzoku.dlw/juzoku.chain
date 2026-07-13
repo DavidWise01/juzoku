@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1267
+slug  : juzoku
+seal  : 89423e36af66cc7a906f644656c123f628b7bc5f21f3edce7595697ea638a3c6
+prev  : 68725668ebe11d6ae23f94e6d5d5b0a97aaa24e8ed18222df994e5b942b7622b
+link  : ad13c60e21e5a5cc1ff9ddd6b77ba3bb7018a25116f0f455c87dc3c3bab9dd2b
+head  : eff4338d5feb1c1a3d8b51b42f6042e41cc2c47f908ed6e326673243b18a5461
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
